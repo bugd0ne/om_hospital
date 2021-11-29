@@ -6,7 +6,7 @@
     'summary': 'Manage patient\'s records',
     'description': "",
     'website': 'https://github.com/bugd0ne',
-    'depends': ['sale'],
+    'depends': ['sale_management'],
     'data': [
         'security/ir.model.access.csv',
         'views/patient.xml',
