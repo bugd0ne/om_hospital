@@ -5,7 +5,7 @@
     'sequence': -12,
     'summary': 'Manage patient\'s records',
     'description': "",
-    'website': 'https://github.com/bugd0ne',
+    'website': 'https://github.com/bugd0ne/om_hospital/blob/main/README.md',
     'depends': ['sale_management'],
     'data': [
         'security/ir.model.access.csv',
